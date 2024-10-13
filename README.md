@@ -21,7 +21,8 @@ SPEED: change speed/pitch (i.e. 1= normal, 2= double)
 Mod Dwarf installation:
 • Copy the max-gen-STUTTTER.lv2 folder to your Mod:
 
-  scp -rp <path to max-gen-STUTTTER.lv2> root@192.168.51.1:/root/.lv2
+  scp -rp < path to max-gen-STUTTTER.lv2 > root@192.168.51.1:/root/.lv2
+  
 • Enter password "mod"
 
 • Reboot Mod Dwarf
