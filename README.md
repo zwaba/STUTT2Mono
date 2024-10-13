@@ -1,5 +1,5 @@
 # STUTT2Mono
-STUTTTERMONO  mono version of STUTTTERZ Mod Dwarf 
+mono version of STUTTTERZ
 
 installation: 
 
